@@ -1,0 +1,70 @@
+  @import url('https://fonts.googleapis.com/css?family=Asap:500');
+
+  header {
+    text-align: center;
+  }
+img {
+  width: 30%;
+  margin-right: 5%;
+}
+  body {
+    background-color: #137F00;
+    max-width: 30rem;
+    font-family: "Asap";
+    color: #E5FFED;
+  }
+
+  footer {
+    background-color: #E5FFED;
+    padding: 0.5rem;
+    margin-top: 1rem;
+    color: #363D36;
+    text-align: center;
+    border-radius: 8px;
+  }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  max-width: 30rem;
+
+}
+ul li {
+    max-width: 30rem;
+    height: auto;
+    background-color: #67FF4C;
+    color: #363D36;
+    border-radius: 8px;
+    text-align: center;
+    width: 100%;
+    display: block;
+    margin-bottom: 3px;
+    padding: 1rem 0 1rem 0;
+  }
+
+  .button  {
+    width: 100%;
+    background-color: #E5FFED;
+    color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 5px 5px #25FF00;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+  }
+
+  .button:active {
+    box-shadow: none;
+  }
+  input.button {
+    font-family: "Asap";
+    color: #363D36;
+
+}
